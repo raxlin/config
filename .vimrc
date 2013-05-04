@@ -1,0 +1,13 @@
+set title
+set background=light
+set autoindent
+syntax on
+se nu
+set noswf
+set tabstop=4
+set fileencoding=utf-8
+set encoding=utf-8
+set paste
+set smartindent
+set shiftwidth=4
+set expandtab
